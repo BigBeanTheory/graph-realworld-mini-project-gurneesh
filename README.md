@@ -187,5 +187,3 @@ pip install -r requirements.txt
 ```
 
 ---
-
-If you want, I can also generate the full `README.md` file exactly formatted and ready to paste into your repository.
